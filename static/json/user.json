@@ -1,0 +1,48 @@
+{
+    "data": {
+        "total": 5,
+        "pagenum": 1,
+        "users": [
+            {
+                "id": 500,
+                "username": "管理员",
+                "create_time": "后台维护/检修",
+                "mg_state": true         
+            },
+            {
+                "id": 577,
+                "username": "经理",
+                "create_time": "相关部门项目总监",
+                "mg_state": false
+            },
+            {
+                "id": 580,
+                "username": "董事长",
+                "create_time": "相关部门总指挥",
+                "mg_state": false
+            },
+            {
+                "id": 587,
+                "username": "职员",
+                "create_time": "Java/Vue/Node/Js/专业精英",
+                "mg_state": false
+            },
+            {
+                "id": 588,
+                "username": "保安",
+                "create_time": "巡逻/站岗/维护/打击",
+                "mg_state": false
+            },
+            {
+                "id": 588,
+                "username": "暂无",
+                "create_time": "暂无",
+                "mg_state": false
+            }
+        ]
+    },
+    "meta": {
+        "msg": "获取管理员列表成功",
+        "status": 200
+    }
+}

@@ -1,0 +1,60 @@
+{
+  "data": {
+    "total": 5,
+    "pagenum": 1,
+    "users": [{
+        "id": 500,
+        "role_name": "商品管理",
+        "username": "Goods",
+        "create_time": "一级",
+        "mg_state": true
+      },
+      {
+        "id": 577,
+        "role_name": "订单管理",
+        "username": "Orders",
+        "create_time": "一级",
+        "mg_state": false
+      },
+      {
+        "id": 580,
+        "role_name": "权限管理",
+        "username": "Orders",
+        "create_time": "一级",
+        "mg_state": false
+      },
+      {
+        "id": 587,
+        "role_name": "添加订单",
+        "username": "Goods",
+        "create_time": "三级",
+        "mg_state": false
+      },
+      {
+        "id": 588,
+        "role_name": "订单管理",
+        "username": "Goods",
+        "create_time": "二级",
+        "mg_state": false
+      },
+      {
+        "id": 588,
+        "role_name": "添加订单",
+        "username": "Orders",
+        "create_time": "三级",
+        "mg_state": false
+      },
+      {
+        "id": 588,
+        "role_name": "商品管理",
+        "username": "Orders",
+        "create_time": "二级",
+        "mg_state": false
+      }
+    ]
+  },
+  "meta": {
+    "msg": "获取管理员列表成功",
+    "status": 200
+  }
+}
